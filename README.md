@@ -13,7 +13,7 @@ Para rodar a aplicação em sua maquina.
   <code>git@github.com:WilliamNunes905/Projeto-Docker-Todo-List.git</code></br>
 
 2. Entre na pasta do repositório que você acabou de clonar:</br>
-    `cd sd-027-b-project-docker-todo-list`
+    `cd Projeto-Docker-Todo-List`
 
 3. Instale as dependências:</br>
 <code>npm install</code>

@@ -2,9 +2,6 @@
 <h2>Contexto do Projeto :</h2>
 "Conteinerização" de aplicações de frontend, backend e testes com o uso de Docker, criando uma conexão entre elas e orquestrando seu funcionamento.
 
-## Desempenho no Projeto :
-<img src="https://github.com/WilliamNunes905/Projeto-Docker-Todo-List/blob/main/Captura%20de%20tela%20de%202023-04-19%2021-59-40.png" alt="imagem.png" style="max-width: 100%;">
-
 <br>
 <h2>Instalação Local:</h2>
 Para rodar a aplicação em sua maquina.

@@ -14,12 +14,3 @@ Para rodar a aplicação em sua maquina.
 
 3. Instale as dependências:</br>
 <code>npm install</code>
-
-
-<br>
-<details>
-  <summary><h2>🚀 Tecnologias e Ferramentas utilizadas:</h2></summary>
-<h1 align='left'>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</h1>
-</details>
